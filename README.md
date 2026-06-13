@@ -5,4 +5,3 @@ Tasks:   [ ] Organize Java practice files
          [ ] Add topic-wise folders 
          [ ] Improved documentation 
          [ ] Update repository structure
-
